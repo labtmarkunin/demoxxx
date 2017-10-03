@@ -20,7 +20,7 @@ public class Example {
     public String grit() throws UnknownHostException {
    
 
-			return "Hello again from " + java.net.InetAddress.getLocalHost().getHostName();
+			return "Hello from " + java.net.InetAddress.getLocalHost().getHostName();
 
 	
         		 }
