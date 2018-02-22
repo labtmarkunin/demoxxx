@@ -44,7 +44,7 @@ public class Example {
    // even
 	LOGGER.info("Logging INFO for 200 error code");
     System.out.println("--> response 200 sent!!!!");
-   return Response.ok("Hello World").build();     //200 code
+   return Response.ok("Hello World 12335764576234576").build();     //200 code
   }
   else  {
    // odd
