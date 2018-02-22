@@ -3,8 +3,8 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: demoxxx
-  tag: v1.0.0
+  repository: default/demoxxx
+  tag: b8b6d7d
   pullPolicy: IfNotPresent
   resources:
     requests:
