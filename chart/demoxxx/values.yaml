@@ -3,7 +3,7 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: default/demoxxx
+  repository: mycluster.icp:8500/default/demoxxx
   tag: b8b6d7d
   pullPolicy: IfNotPresent
   resources:
